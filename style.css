@@ -1,0 +1,176 @@
+
+#moling{
+    background-color: black;
+    color: white;
+}
+#navbar{
+    display: flex;
+    gap:3%;
+
+}
+#ome{
+   color: orange; 
+}
+#topbar{
+    display: flex;
+    gap:20% ;
+}
+#Riaadmv{
+    display:grid;
+    grid-template-columns: 30%30%;
+    position: relative;
+    padding-bottom: 10%;
+}
+#top{
+    position: absolute;
+padding-top: 5px;
+
+}
+#bottom{
+    position: absolute;
+    padding-top: 5px;
+    /* transform: translate(-50%, -50%); */
+
+}
+#blog{
+    text-align: center;
+    color:orange
+}
+#articles{
+    display: grid;
+    grid-template-columns: 30%30%;
+    display: flex;
+    padding-bottom: 10%;
+    position: relative;
+    gap: 10%;
+}
+.lastfooter{
+    display: grid;
+    grid-template-columns: 30%30%;
+    display: flex;
+    gap: 10%;
+    background-color: black;
+    color: white;
+
+
+}
+#helping{
+    text-align: center;
+    padding-bottom: 10%;
+    padding-left: 20%;
+    background-color: orange;
+}
+#icons{
+    
+    background-color: white;
+    height: 40px;
+}
+#footer{
+    display: grid;
+    grid-template-columns: 30%30%;
+    display: flex;
+    gap: 10%;
+}
+#topicons{
+    display: grid;
+    grid-template-columns: 30%30%;
+    display: flex;
+    gap: 10%;
+}
+#services{
+    text-align: center;
+    font-style: italic;
+    color: orange;
+    gap: 10%;
+}
+#logo{
+display: grid;
+    display: flex;
+    gap: 15%;
+}
+#moving{
+    display: grid;
+    grid-template-columns: 20%20%;
+    padding-bottom: 10%;
+    
+}
+#since{
+    display: flex;
+    color: orange;
+
+}
+#learn{
+    color: orange;
+}
+#signup{
+    text-align: center;
+    padding-bottom: 8%;
+}
+.rose{
+    color: orange;
+}
+.container{
+    
+    /* @media screen and (max-width: 767px){
+        width: 100%;
+        
+    } */
+    @media screen and (max-width:768px) {width: 70%;
+        
+    }
+}
+#adm{
+    position: relative;
+}
+#admin{
+    position: absolute;
+    top: 10%;
+    color: white;
+}
+.our{
+    position: relative;
+}
+#home{
+    position: absolute;
+    top: 8%;
+    color: white;
+}
+.boomer{
+    position: relative;
+}
+#lastimg{
+    position: absolute;
+    top: 10%;
+    color: white;
+    
+}
+#request{
+    display: flex;
+    gap:10px;
+}
+#rgs{
+    position: absolute;
+    display: flex;
+    padding-bottom: 20%;
+    gap:10px;
+}
+#booking{
+    display: grid;
+    background-color: orange;
+    color: white;
+    width: 200px;
+    
+
+}
+#Testimonials{
+    text-align: center;
+    padding-top: 20%;
+}
+#fm1{
+    background-color:darkblue;
+    display: flex;
+    gap:10px;
+    color: white;
+}
+
+
